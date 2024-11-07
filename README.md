@@ -1,1 +1,1 @@
-Hello i am Avantika a fan of student of Chandigarh University persuing MCA(AI&ML).I have created a project in tableau where i have analysed the employee firing rate and joining rate how they are giving the job ratings.
+Hello I am Avantika a fan of student of Chandigarh University persuing MCA(AI&ML).I have created a project in python for hand sign detections where we help people to detect their hands symbols.My prroject helps in enhancing the user experience.
